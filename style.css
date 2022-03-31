@@ -1,0 +1,17 @@
+body {
+    background-color: #1bb1ec;
+  }
+fieldset
+  { 
+  font-family: 'Times New Roman', Times, serif;
+  background-color:#dde1e7;
+  width: auto;
+  padding: 20px;
+  width: fit-content;
+  align-items: flex-start;
+  text-align: left;
+  
+  }
+#txt{
+  vertical-align: middle;
+}
